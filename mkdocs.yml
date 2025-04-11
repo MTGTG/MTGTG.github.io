@@ -1,0 +1,10 @@
+site_name: QIACHIP
+nav:
+   - Home: index.md
+   - Product Instruction Manual : about.md  
+
+plugins:
+  - search
+
+theme: 
+  name: material
